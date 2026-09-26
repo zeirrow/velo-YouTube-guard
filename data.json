@@ -1,4 +1,4 @@
 {
-  "isYouTubeAllowed": true,
+  "isYouTubeAllowed": false,
   "message": "YouTube downloads aren't supported in this app due to YouTube's Terms of Service."
 }
